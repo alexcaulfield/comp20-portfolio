@@ -14,14 +14,15 @@ ul.nav {
     padding: 0;
     overflow: hidden;
     background-color: #373737;
+    text-align: center;
 }
 
 ul.nav li {
-	float: right;
+	display: inline-block;
 }
 
 ul.nav li a {
-	font-family: Uberlin;
+	font-family: "Uberlin";
 	display: inline-block;
     color: #F4F4F4;
     text-align: center;
@@ -40,10 +41,9 @@ img {
 
 body {
 	background-color: #F4F4F4;
-	font-family: Oranienbaum;
+	font-family: "Oranienbaum";
 }
 
 h3 {
-	font-family: Uberlin;
+	font-family: "Uberlin";
 	font-weight: bold;
-}
