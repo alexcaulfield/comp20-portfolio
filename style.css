@@ -57,6 +57,11 @@ body {
     font-family: "Oranienbaum";
 }
 
+h2 {
+    padding-left: 25px;
+    text-align: center;
+}
+
 h3 {
     font-family: "Uberlin";
     font-weight: bold;
