@@ -48,6 +48,11 @@ img.portrait {
     padding: 12px 12px 12px 12px;
 }
 
+.em {
+    display: inline;
+    font-style: italic;
+}
+
 body {
     background-color: #F4F4F4;
     font-family: "Oranienbaum";
