@@ -1,11 +1,11 @@
 @font-face {
     font-family: 'Uberlin';
-    src: url(Uberlin.ttf);
+    src: url(uberlin.ttf);
 }
 
 @font-face {
     font-family: 'Oranienbaum';
-    src: url(Oranienbaum.ttf);
+    src: url(oranienbaum.ttf);
 }
 
 ul.nav {
